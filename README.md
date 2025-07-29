@@ -66,29 +66,6 @@ Los ejercicios se implementaron principalmente en:
 
 ---
 
-## 📦 Estructura del repositorio
-
-El directorio principal está organizado por lenguaje de programación. Cada subcarpeta contiene los ejercicios correspondientes, en su versión más reciente y probada:
-
-```
-
-proyectos-de-clase/
-├── pse-int/       # Algoritmos en pseudocódigo (PSeInt)
-│   └── ejercicios ...
-├── c/             # Prácticas en C
-│   └── ejercicios ...
-├── c++/           # Prácticas en C++
-│   └── ejercicios ...
-└── c#/            # Proyectos en C# (autodidacta)
-    └── ejercicios ...
-
-````
-
-- Cada archivo incluye comentarios `//` que explican los pasos clave.
-- No se incluyen dependencias externas; basta con abrir el código en **Visual Studio Code** o ejecutar en **PSeInt** según corresponda.
-
----
-
 ## ▶️ Cómo ejecutar los ejercicios
 
 Sigue estas indicaciones para compilar o interpretar los archivos:
@@ -127,11 +104,11 @@ Para profundizar y complementar el aprendizaje, se recomiendan estos materiales:
   - C++: https://docs.microsoft.com/cpp/  
   - C#: https://docs.microsoft.com/dotnet/csharp/
 - **Videos y cursos**:
-  - Canal "MoureDev" (49.1k suscriptores): conceptos claros y ejemplos prácticos.
-  - Canal "Aprende a Programar": explicaciones detalladas para principiantes.
-  - Creadores inspiradores: "Soy Dalto", "Valen Werle".
+  - Canal "MoureDev" (https://www.youtube.com/@mouredev): conceptos claros y ejemplos prácticos.
+  - Canal "Aprende a Programar" (https://www.youtube.com/@aprendeaprogramar6670): explicaciones detalladas para principiantes.
+  - Creadores inspiradores: "Soy Dalto" (https://www.youtube.com/@soydalto), "Valen Werle" (https://www.youtube.com/@ValenWerle).
 
-> Estos recursos fueron clave para el desarrollo autodidacta y la resolución de dudas específicas.
+> Estos recursos fueron clave para el desarrollo autodidacta y la resolución de proyectos y idea, posta muchas gracias por existir.
 
 ---
 ````
