@@ -1,0 +1,41 @@
+# === IDE / Editor ===
+.vscode/
+.vs/
+
+# === Compilación / Binarios ===
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.log
+*.ilk
+
+# === Archivos temporales / de sistema ===
+*.tmp
+*.temp
+*.swp
+*.bak
+*.old
+*.orig
+
+# === Configuración del proyecto / usuario ===
+*.user
+*.suo
+*.csproj.user
+*.vcxproj.user
+*.sln.docstates
+
+# === Archivos de JSON ===
+*.json
+
+# === Carpetas de build / salida ===
+bin/
+obj/
+Debug/
+Release/
+
+# === Otros archivos de editor / OS ===
+Thumbs.db
+.DS_Store
+*.class
